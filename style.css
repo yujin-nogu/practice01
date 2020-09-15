@@ -234,7 +234,7 @@ a:hover {
 /* ヒーロー */
 .hero {
   height: 400px;
-  background-image: url(img/hero.jpg);
+  background-image: url(hero.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
@@ -389,13 +389,13 @@ a:hover {
 }
 
 .detail.office figure {
-  background-image: url(img/office.jpg);
+  background-image: url(office.jpg);
 }
 .detail.manage figure {
-  background-image: url(img/manage.jpg);
+  background-image: url(manage.jpg);
 }
 .detail.research figure {
-  background-image: url(img/research.jpg);
+  background-image: url(research.jpg);
 }
 
 @media (min-width: 900px) {
